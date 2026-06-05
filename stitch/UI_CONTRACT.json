@@ -1,0 +1,142 @@
+[
+  {
+    "screenId": "aa9df962992b404cb1dcd26fae879272",
+    "screenTitle": "Gameplay - SparkSwitch Lite",
+    "deviceType": "DESKTOP",
+    "elements": [
+      {
+        "type": "link",
+        "label": "Play",
+        "href": "#",
+        "line": 238
+      },
+      {
+        "type": "link",
+        "label": "Rankings",
+        "href": "#",
+        "line": 242
+      },
+      {
+        "type": "link",
+        "label": "Profile",
+        "href": "#",
+        "line": 246
+      },
+      {
+        "type": "button",
+        "label": "Pause",
+        "line": 153
+      },
+      {
+        "type": "button",
+        "label": "Settings",
+        "line": 156
+      },
+      {
+        "type": "button",
+        "label": "START GAME",
+        "line": 218
+      }
+    ],
+    "navigation": [
+      {
+        "type": "link",
+        "label": "Play",
+        "href": "#",
+        "line": 238
+      },
+      {
+        "type": "link",
+        "label": "Rankings",
+        "href": "#",
+        "line": 242
+      },
+      {
+        "type": "link",
+        "label": "Profile",
+        "href": "#",
+        "line": 246
+      }
+    ],
+    "buttons": [
+      {
+        "type": "button",
+        "label": "Pause",
+        "line": 153
+      },
+      {
+        "type": "button",
+        "label": "Settings",
+        "line": 156
+      },
+      {
+        "type": "button",
+        "label": "START GAME",
+        "line": 218
+      }
+    ],
+    "inputs": [],
+    "hardcodedData": [],
+    "totalInteractive": 6,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  },
+  {
+    "screenId": "5dd5b1405a984b28b5e40ee6762521fa",
+    "screenTitle": "Game Settings - SparkSwitch Lite",
+    "deviceType": "DESKTOP",
+    "elements": [
+      {
+        "type": "button",
+        "label": "Close settings",
+        "line": 131
+      },
+      {
+        "type": "button",
+        "label": "SAVE PREFERENCES",
+        "line": 176
+      },
+      {
+        "type": "button",
+        "label": "RETURN TO GAME",
+        "line": 179
+      },
+      {
+        "type": "input",
+        "label": "range",
+        "inputType": "range",
+        "line": 142
+      }
+    ],
+    "navigation": [],
+    "buttons": [
+      {
+        "type": "button",
+        "label": "Close settings",
+        "line": 131
+      },
+      {
+        "type": "button",
+        "label": "SAVE PREFERENCES",
+        "line": 176
+      },
+      {
+        "type": "button",
+        "label": "RETURN TO GAME",
+        "line": 179
+      }
+    ],
+    "inputs": [
+      {
+        "type": "input",
+        "label": "range",
+        "inputType": "range",
+        "line": 142
+      }
+    ],
+    "hardcodedData": [],
+    "totalInteractive": 4,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  }
+]
