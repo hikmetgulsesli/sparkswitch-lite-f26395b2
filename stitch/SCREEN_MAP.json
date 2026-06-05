@@ -1,0 +1,20 @@
+[
+  {
+    "screenId": "aa9df962992b404cb1dcd26fae879272",
+    "name": "Gameplay - SparkSwitch Lite",
+    "type": "game",
+    "description": "Gameplay - SparkSwitch Lite screen",
+    "surfaceIds": [
+      "SURF_GAMEPLAY"
+    ]
+  },
+  {
+    "screenId": "5dd5b1405a984b28b5e40ee6762521fa",
+    "name": "Game Settings - SparkSwitch Lite",
+    "type": "settings",
+    "description": "Game Settings - SparkSwitch Lite screen",
+    "surfaceIds": [
+      "SURF_GAME_SETTINGS"
+    ]
+  }
+]

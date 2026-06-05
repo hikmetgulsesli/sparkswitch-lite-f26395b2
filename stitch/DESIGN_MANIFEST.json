@@ -1,0 +1,24 @@
+[
+  {
+    "screenId": "aa9df962992b404cb1dcd26fae879272",
+    "title": "Gameplay - SparkSwitch Lite",
+    "htmlFile": "aa9df962992b404cb1dcd26fae879272.html",
+    "deviceType": "DESKTOP",
+    "htmlUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sX2M5MTExNmNiNmQ4MTQzNGU4MmZlOTM3MTc1Mzk4OWY3EgsSBxCN19Wi9xcYAZIBIwoKcHJvamVjdF9pZBIVQhM4ODczMTQyOTM1NDAwNjQyMjM2&filename=&opi=96797242",
+    "localHtml": "/Users/setrox/projects/sparkswitch-lite-f26395b2/stitch/aa9df962992b404cb1dcd26fae879272.html",
+    "surfaceIds": [
+      "SURF_GAMEPLAY"
+    ]
+  },
+  {
+    "screenId": "5dd5b1405a984b28b5e40ee6762521fa",
+    "title": "Game Settings - SparkSwitch Lite",
+    "htmlFile": "5dd5b1405a984b28b5e40ee6762521fa.html",
+    "deviceType": "DESKTOP",
+    "htmlUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sX2IyZmNlZmFkZTY5MDRkNDE4ZGNjZWQwNzVjYmQ5ZDI4EgsSBxCN19Wi9xcYAZIBIwoKcHJvamVjdF9pZBIVQhM4ODczMTQyOTM1NDAwNjQyMjM2&filename=&opi=96797242",
+    "localHtml": "/Users/setrox/projects/sparkswitch-lite-f26395b2/stitch/5dd5b1405a984b28b5e40ee6762521fa.html",
+    "surfaceIds": [
+      "SURF_GAME_SETTINGS"
+    ]
+  }
+]
