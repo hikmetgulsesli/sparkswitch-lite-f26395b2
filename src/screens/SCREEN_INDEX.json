@@ -1,0 +1,87 @@
+[
+  {
+    "screenId": "aa9df962992b404cb1dcd26fae879272",
+    "title": "Gameplay - SparkSwitch Lite",
+    "componentName": "GameplaySparkswitchLite",
+    "file": "src/screens/GameplaySparkswitchLite.tsx",
+    "buttons": 3,
+    "inputs": 0,
+    "links": 3,
+    "actions": [
+      {
+        "id": "pause-1",
+        "kind": "button",
+        "label": "Pause",
+        "index": 0
+      },
+      {
+        "id": "settings-2",
+        "kind": "button",
+        "label": "Settings",
+        "index": 1
+      },
+      {
+        "id": "start-game-3",
+        "kind": "button",
+        "label": "START GAME",
+        "index": 2
+      },
+      {
+        "id": "play-1",
+        "kind": "link",
+        "label": "Play",
+        "href": "#",
+        "index": 0
+      },
+      {
+        "id": "rankings-2",
+        "kind": "link",
+        "label": "Rankings",
+        "href": "#",
+        "index": 1
+      },
+      {
+        "id": "profile-3",
+        "kind": "link",
+        "label": "Profile",
+        "href": "#",
+        "index": 2
+      }
+    ]
+  },
+  {
+    "screenId": "5dd5b1405a984b28b5e40ee6762521fa",
+    "title": "Game Settings - SparkSwitch Lite",
+    "componentName": "GameSettingsSparkswitchLite",
+    "file": "src/screens/GameSettingsSparkswitchLite.tsx",
+    "buttons": 4,
+    "inputs": 1,
+    "links": 0,
+    "actions": [
+      {
+        "id": "close-settings-1",
+        "kind": "button",
+        "label": "Close settings",
+        "index": 0
+      },
+      {
+        "id": "button-2-2",
+        "kind": "button",
+        "label": "Button 2",
+        "index": 1
+      },
+      {
+        "id": "save-preferences-3",
+        "kind": "button",
+        "label": "SAVE PREFERENCES",
+        "index": 2
+      },
+      {
+        "id": "return-to-game-4",
+        "kind": "button",
+        "label": "RETURN TO GAME",
+        "index": 3
+      }
+    ]
+  }
+]
